@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @kap_city.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @kap_city.title %>
+</p>
+
+<p>
+  <strong>Prefecture:</strong>
+  <%= @kap_city.prefecture %>
+</p>
+
+<%= link_to 'Edit', edit_kap_city_path(@kap_city) %> |
+<%= link_to 'Back', kap_cities_path %>

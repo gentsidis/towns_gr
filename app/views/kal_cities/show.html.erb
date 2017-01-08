@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @kal_city.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @kal_city.title %>
+</p>
+
+<p>
+  <strong>Regional unity:</strong>
+  <%= @kal_city.regional_unity %>
+</p>
+
+<%= link_to 'Edit', edit_kal_city_path(@kal_city) %> |
+<%= link_to 'Back', kal_cities_path %>

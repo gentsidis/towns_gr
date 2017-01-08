@@ -1,0 +1,1 @@
+json.array! @regional_unities, partial: 'regional_unities/regional_unity', as: :regional_unity

@@ -1,0 +1,1 @@
+json.array! @kap_cities, partial: 'kap_cities/kap_city', as: :kap_city

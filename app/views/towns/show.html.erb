@@ -1,0 +1,54 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @town.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @town.title %>
+</p>
+
+<p>
+  <strong>Kal townid:</strong>
+  <%= @town.kal_townID %>
+</p>
+
+<p>
+  <strong>Kap townid:</strong>
+  <%= @town.kap_townID %>
+</p>
+
+<p>
+  <strong>Kal type:</strong>
+  <%= @town.kal_type %>
+</p>
+
+<p>
+  <strong>Kal base:</strong>
+  <%= @town.kal_base %>
+</p>
+
+<p>
+  <strong>Population:</strong>
+  <%= @town.population %>
+</p>
+
+<p>
+  <strong>Kap type:</strong>
+  <%= @town.kap_type %>
+</p>
+
+<p>
+  <strong>Section:</strong>
+  <%= @town.section %>
+</p>
+
+<p>
+  <strong>Kap city:</strong>
+  <%= @town.kap_city %>
+</p>
+
+<%= link_to 'Edit', edit_town_path(@town) %> |
+<%= link_to 'Back', towns_path %>

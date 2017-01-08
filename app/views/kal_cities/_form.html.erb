@@ -1,0 +1,32 @@
+<%= form_for(kal_city) do |f| %>
+  <% if kal_city.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(kal_city.errors.count, "error") %> prohibited this kal_city from being saved:</h2>
+
+      <ul>
+      <% kal_city.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :regional_unity_id %>
+    <%= f.text_field :regional_unity_id %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

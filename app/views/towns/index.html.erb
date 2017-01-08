@@ -1,0 +1,46 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Towns</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Kal townid</th>
+      <th>Kap townid</th>
+      <th>Kal type</th>
+      <th>Kal base</th>
+      <th>Population</th>
+      <th>Kap type</th>
+      <th>Section</th>
+      <th>Kap city</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @towns.each do |town| %>
+      <tr>
+        <td><%= town.name %></td>
+        <td><%= town.title %></td>
+        <td><%= town.kal_townID %></td>
+        <td><%= town.kap_townID %></td>
+        <td><%= town.kal_type %></td>
+        <td><%= town.kal_base %></td>
+        <td><%= town.population %></td>
+        <td><%= town.kap_type %></td>
+        <td><%= town.section %></td>
+        <td><%= town.kap_city %></td>
+        <td><%= link_to 'Show', town %></td>
+        <td><%= link_to 'Edit', edit_town_path(town) %></td>
+        <td><%= link_to 'Destroy', town, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= will_paginate @towns %>
+<br>
+
+<%= link_to 'New Town', new_town_path %>

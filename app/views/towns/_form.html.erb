@@ -1,0 +1,67 @@
+<%= form_for(town) do |f| %>
+  <% if town.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(town.errors.count, "error") %> prohibited this town from being saved:</h2>
+
+      <ul>
+      <% town.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kal_townID %>
+    <%= f.text_field :kal_townID %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kap_townID %>
+    <%= f.text_field :kap_townID %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kal_type %>
+    <%= f.text_field :kal_type %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kal_base %>
+    <%= f.text_field :kal_base %>
+  </div>
+
+  <div class="field">
+    <%= f.label :population %>
+    <%= f.text_field :population %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kap_type %>
+    <%= f.text_field :kap_type %>
+  </div>
+
+  <div class="field">
+    <%= f.label :section_id %>
+    <%= f.text_field :section_id %>
+  </div>
+
+  <div class="field">
+    <%= f.label :kap_city_id %>
+    <%= f.text_field :kap_city_id %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

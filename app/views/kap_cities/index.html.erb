@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Kap Cities</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Prefecture</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @kap_cities.each do |kap_city| %>
+      <tr>
+        <td><%= kap_city.name %></td>
+        <td><%= kap_city.title %></td>
+        <td><%= kap_city.prefecture %></td>
+        <td><%= link_to 'Show', kap_city %></td>
+        <td><%= link_to 'Edit', edit_kap_city_path(kap_city) %></td>
+        <td><%= link_to 'Destroy', kap_city, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<%= will_paginate @kap_cities %>
+<br>
+
+<%= link_to 'New Kap City', new_kap_city_path %>

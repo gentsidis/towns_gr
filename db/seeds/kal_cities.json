@@ -1,0 +1,1952 @@
+[
+  {
+    "_id": "9001",
+    "name": "ΔΟΞΑΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "101"
+  },
+  {
+    "_id": "9002",
+    "name": "ΔΡΑΜΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "101"
+  },
+  {
+    "_id": "9003",
+    "name": "ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "101"
+  },
+  {
+    "_id": "9004",
+    "name": "ΠΑΡΑΝΕΣΤΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "101"
+  },
+  {
+    "_id": "9005",
+    "name": "ΠΡΟΣΟΤΣΑΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "101"
+  },
+  {
+    "_id": "9006",
+    "name": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "102"
+  },
+  {
+    "_id": "9007",
+    "name": "ΔΙΔΥΜΟΤΕΙΧΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "102"
+  },
+  {
+    "_id": "9008",
+    "name": "ΟΡΕΣΤΙΑΔΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "102"
+  },
+  {
+    "_id": "9009",
+    "name": "ΣΑΜΟΘΡΑΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "102"
+  },
+  {
+    "_id": "9010",
+    "name": "ΣΟΥΦΛΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "102"
+  },
+  {
+    "_id": "9011",
+    "name": "ΘΑΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "103"
+  },
+  {
+    "_id": "9012",
+    "name": "ΚΑΒΑΛΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "104"
+  },
+  {
+    "_id": "9013",
+    "name": "ΝΕΣΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "104"
+  },
+  {
+    "_id": "9014",
+    "name": "ΠΑΓΓΑΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "104"
+  },
+  {
+    "_id": "9015",
+    "name": "ΑΒΔΗΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "105"
+  },
+  {
+    "_id": "9016",
+    "name": "ΜΥΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "105"
+  },
+  {
+    "_id": "9017",
+    "name": "ΞΑΝΘΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "105"
+  },
+  {
+    "_id": "9018",
+    "name": "ΤΟΠΕΙΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "105"
+  },
+  {
+    "_id": "9019",
+    "name": "ΑΡΡΙΑΝΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "106"
+  },
+  {
+    "_id": "9020",
+    "name": "ΙΑΣΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "106"
+  },
+  {
+    "_id": "9021",
+    "name": "ΚΟΜΟΤΗΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "106"
+  },
+  {
+    "_id": "9022",
+    "name": "ΜΑΡΩΝΕΙΑΣ-ΣΑΠΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "106"
+  },
+  {
+    "_id": "9023",
+    "name": "ΑΛΕΞΑΝΔΡΕΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "201"
+  },
+  {
+    "_id": "9024",
+    "name": "ΒΕΡΟΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "201"
+  },
+  {
+    "_id": "9025",
+    "name": "ΝΑΟΥΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "201"
+  },
+  {
+    "_id": "9026",
+    "name": "ΑΜΠΕΛΟΚΗΠΩΝ-ΜΕΝΕΜΕΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9027",
+    "name": "ΒΟΛΒΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9028",
+    "name": "ΔΕΛΤΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9029",
+    "name": "ΘΕΡΜΑΪΚΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9030",
+    "name": "ΘΕΡΜΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9031",
+    "name": "ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9032",
+    "name": "ΚΑΛΑΜΑΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9033",
+    "name": "ΚΟΡΔΕΛΙΟΥ-ΕΥΟΣΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9034",
+    "name": "ΛΑΓΚΑΔΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9035",
+    "name": "ΝΕΑΠΟΛΗΣ-ΣΥΚΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9036",
+    "name": "ΠΑΥΛΟΥ ΜΕΛΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9037",
+    "name": "ΠΥΛΑΙΑΣ-ΧΟΡΤΙΑΤΗ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9038",
+    "name": "ΧΑΛΚΗΔΟΝΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9039",
+    "name": "ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "202"
+  },
+  {
+    "_id": "9040",
+    "name": "ΚΙΛΚΙΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "203"
+  },
+  {
+    "_id": "9041",
+    "name": "ΠΑΙΟΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "203"
+  },
+  {
+    "_id": "9042",
+    "name": "ΑΛΜΩΠΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "204"
+  },
+  {
+    "_id": "9043",
+    "name": "ΕΔΕΣΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "204"
+  },
+  {
+    "_id": "9044",
+    "name": "ΠΕΛΛΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "204"
+  },
+  {
+    "_id": "9045",
+    "name": "ΣΚΥΔΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "204"
+  },
+  {
+    "_id": "9046",
+    "name": "ΔΙΟΥ-ΟΛΥΜΠΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "205"
+  },
+  {
+    "_id": "9047",
+    "name": "ΚΑΤΕΡΙΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "205"
+  },
+  {
+    "_id": "9048",
+    "name": "ΠΥΔΝΑΣ-ΚΟΛΙΝΔΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "205"
+  },
+  {
+    "_id": "9049",
+    "name": "ΑΜΦΙΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9050",
+    "name": "ΒΙΣΑΛΤΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9051",
+    "name": "ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9052",
+    "name": "ΗΡΑΚΛΕΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9053",
+    "name": "ΝΕΑΣ ΖΙΧΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9054",
+    "name": "ΣΕΡΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9055",
+    "name": "ΣΙΝΤΙΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "206"
+  },
+  {
+    "_id": "9056",
+    "name": "ΑΡΙΣΤΟΤΕΛΗ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "207"
+  },
+  {
+    "_id": "9057",
+    "name": "ΚΑΣΣΑΝΔΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "207"
+  },
+  {
+    "_id": "9058",
+    "name": "ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "207"
+  },
+  {
+    "_id": "9059",
+    "name": "ΠΟΛΥΓΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "207"
+  },
+  {
+    "_id": "9060",
+    "name": "ΣΙΘΩΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "207"
+  },
+  {
+    "_id": "9061",
+    "name": "ΓΡΕΒΕΝΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "301"
+  },
+  {
+    "_id": "9062",
+    "name": "ΔΕΣΚΑΤΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "301"
+  },
+  {
+    "_id": "9063",
+    "name": "ΚΑΣΤΟΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "302"
+  },
+  {
+    "_id": "9064",
+    "name": "ΝΕΣΤΟΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "302"
+  },
+  {
+    "_id": "9065",
+    "name": "ΟΡΕΣΤΙΔΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "302"
+  },
+  {
+    "_id": "9066",
+    "name": "ΒΟΪΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "303"
+  },
+  {
+    "_id": "9067",
+    "name": "ΕΟΡΔΑΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "303"
+  },
+  {
+    "_id": "9068",
+    "name": "ΚΟΖΑΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "303"
+  },
+  {
+    "_id": "9069",
+    "name": "ΣΕΡΒΙΩΝ-ΒΕΛΒΕΝΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "303"
+  },
+  {
+    "_id": "9070",
+    "name": "ΑΜΥΝΤΑΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "304"
+  },
+  {
+    "_id": "9071",
+    "name": "ΠΡΕΣΠΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "304"
+  },
+  {
+    "_id": "9072",
+    "name": "ΦΛΩΡΙΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "304"
+  },
+  {
+    "_id": "9073",
+    "name": "ΑΡΤΑΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "401"
+  },
+  {
+    "_id": "9074",
+    "name": "ΓΕΩΡΓΙΟΥ ΚΑΡΑΪΣΚΑΚΗ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "401"
+  },
+  {
+    "_id": "9075",
+    "name": "ΚΕΝΤΡΙΚΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "401"
+  },
+  {
+    "_id": "9076",
+    "name": "ΝΙΚΟΛΑΟΥ ΣΚΟΥΦΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "401"
+  },
+  {
+    "_id": "9077",
+    "name": "ΗΓΟΥΜΕΝΙΤΣΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "402"
+  },
+  {
+    "_id": "9078",
+    "name": "ΣΟΥΛΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "402"
+  },
+  {
+    "_id": "9079",
+    "name": "ΦΙΛΙΑΤΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "402"
+  },
+  {
+    "_id": "9080",
+    "name": "ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9081",
+    "name": "ΔΩΔΩΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9082",
+    "name": "ΖΑΓΟΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9083",
+    "name": "ΖΙΤΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9084",
+    "name": "ΙΩΑΝΝΙΤΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9085",
+    "name": "ΚΟΝΙΤΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9086",
+    "name": "ΜΕΤΣΟΒΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9087",
+    "name": "ΠΩΓΩΝΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "403"
+  },
+  {
+    "_id": "9088",
+    "name": "ΖΗΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "404"
+  },
+  {
+    "_id": "9089",
+    "name": "ΠΑΡΓΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "404"
+  },
+  {
+    "_id": "9090",
+    "name": "ΠΡΕΒΕΖΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "404"
+  },
+  {
+    "_id": "9091",
+    "name": "ΑΡΓΙΘΕΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9092",
+    "name": "ΚΑΡΔΙΤΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9093",
+    "name": "ΛΙΜΝΗΣ ΠΛΑΣΤΗΡΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9094",
+    "name": "ΜΟΥΖΑΚΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9095",
+    "name": "ΠΑΛΑΜΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9096",
+    "name": "ΣΟΦΑΔΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "501"
+  },
+  {
+    "_id": "9097",
+    "name": "ΑΓΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9098",
+    "name": "ΕΛΑΣΣΟΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9099",
+    "name": "ΚΙΛΕΛΕΡ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9100",
+    "name": "ΛΑΡΙΣΑΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9101",
+    "name": "ΤΕΜΠΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9102",
+    "name": "ΤΥΡΝΑΒΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9103",
+    "name": "ΦΑΡΣΑΛΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "502"
+  },
+  {
+    "_id": "9104",
+    "name": "ΑΛΜΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "503"
+  },
+  {
+    "_id": "9105",
+    "name": "ΒΟΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "503"
+  },
+  {
+    "_id": "9106",
+    "name": "ΖΑΓΟΡΑΣ-ΜΟΥΡΕΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "503"
+  },
+  {
+    "_id": "9107",
+    "name": "ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "503"
+  },
+  {
+    "_id": "9108",
+    "name": "ΡΗΓΑ ΦΕΡΡΑΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "503"
+  },
+  {
+    "_id": "9109",
+    "name": "ΑΛΟΝΝΗΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "504"
+  },
+  {
+    "_id": "9110",
+    "name": "ΣΚΙΑΘΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "504"
+  },
+  {
+    "_id": "9111",
+    "name": "ΣΚΟΠΕΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "504"
+  },
+  {
+    "_id": "9112",
+    "name": "ΚΑΛΑΜΠΑΚΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "505"
+  },
+  {
+    "_id": "9113",
+    "name": "ΠΥΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "505"
+  },
+  {
+    "_id": "9114",
+    "name": "ΤΡΙΚΚΑΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "505"
+  },
+  {
+    "_id": "9115",
+    "name": "ΦΑΡΚΑΔΟΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "505"
+  },
+  {
+    "_id": "9116",
+    "name": "ΖΑΚΥΝΘΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "601"
+  },
+  {
+    "_id": "9117",
+    "name": "ΙΘΑΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "602"
+  },
+  {
+    "_id": "9118",
+    "name": "ΚΕΡΚΥΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "603"
+  },
+  {
+    "_id": "9119",
+    "name": "ΠΑΞΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "603"
+  },
+  {
+    "_id": "9120",
+    "name": "ΚΕΦΑΛΟΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "604"
+  },
+  {
+    "_id": "9121",
+    "name": "ΛΕΥΚΑΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "605"
+  },
+  {
+    "_id": "9122",
+    "name": "ΜΕΓΑΝΗΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "605"
+  },
+  {
+    "_id": "9123",
+    "name": "ΑΓΡΙΝΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9124",
+    "name": "ΑΚΤΙΟΥ-ΒΟΝΙΤΣΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9125",
+    "name": "ΑΜΦΙΛΟΧΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9126",
+    "name": "ΘΕΡΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9127",
+    "name": "ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9128",
+    "name": "ΝΑΥΠΑΚΤΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9129",
+    "name": "ΞΗΡΟΜΕΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0701"
+  },
+  {
+    "_id": "9130",
+    "name": "ΑΙΓΙΑΛΕΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0702"
+  },
+  {
+    "_id": "9131",
+    "name": "ΔΥΤΙΚΗΣ ΑΧΑΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0702"
+  },
+  {
+    "_id": "9132",
+    "name": "ΕΡΥΜΑΝΘΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0702"
+  },
+  {
+    "_id": "9133",
+    "name": "ΚΑΛΑΒΡΥΤΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0702"
+  },
+  {
+    "_id": "9134",
+    "name": "ΠΑΤΡΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0702"
+  },
+  {
+    "_id": "9135",
+    "name": "ΑΝΔΡΑΒΙΔΑΣ-ΚΥΛΛΗΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9136",
+    "name": "ΑΝΔΡΙΤΣΑΙΝΑΣ-ΚΡΕΣΤΕΝΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9137",
+    "name": "ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9138",
+    "name": "ΖΑΧΑΡΩΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9139",
+    "name": "ΗΛΙΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9140",
+    "name": "ΠΗΝΕΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9141",
+    "name": "ΠΥΡΓΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "703"
+  },
+  {
+    "_id": "9142",
+    "name": "ΑΛΙΑΡΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9143",
+    "name": "ΔΙΣΤΟΜΟΥ - ΑΡΑΧΟΒΑΣ - ΑΝΤΙΚΥΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9144",
+    "name": "ΘΗΒΑΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9145",
+    "name": "ΛΕΒΑΔΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9146",
+    "name": "ΟΡΧΟΜΕΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9147",
+    "name": "ΤΑΝΑΓΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0801"
+  },
+  {
+    "_id": "9148",
+    "name": "ΔΙΡΦΥΩΝ-ΜΕΣΣΑΠΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9149",
+    "name": "ΕΡΕΤΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9150",
+    "name": "ΙΣΤΙΑΙΑΣ-ΑΙΔΗΨΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9151",
+    "name": "ΚΑΡΥΣΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9152",
+    "name": "ΚΥΜΗΣ-ΑΛΙΒΕΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9153",
+    "name": "ΜΑΝΤΟΥΔΙΟΥ-ΛΙΜΝΗΣ-ΑΓΙΑΣ ΑΝΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9154",
+    "name": "ΣΚΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9155",
+    "name": "ΧΑΛΚΙΔΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "802"
+  },
+  {
+    "_id": "9156",
+    "name": "ΑΓΡΑΦΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "803"
+  },
+  {
+    "_id": "9157",
+    "name": "ΚΑΡΠΕΝΗΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "803"
+  },
+  {
+    "_id": "9158",
+    "name": "ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9159",
+    "name": "ΔΟΜΟΚΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9160",
+    "name": "ΛΑΜΙΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9161",
+    "name": "ΛΟΚΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9162",
+    "name": "ΜΑΚΡΑΚΩΜΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9163",
+    "name": "ΜΩΛΟΥ - ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9164",
+    "name": "ΣΤΥΛΙΔΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "804"
+  },
+  {
+    "_id": "9165",
+    "name": "ΔΕΛΦΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "805"
+  },
+  {
+    "_id": "9166",
+    "name": "ΔΩΡΙΔΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "805"
+  },
+  {
+    "_id": "9167",
+    "name": "ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9168",
+    "name": "ΑΜΑΡΟΥΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9169",
+    "name": "ΒΡΙΛΗΣΣΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9170",
+    "name": "ΗΡΑΚΛΕΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9171",
+    "name": "ΚΗΦΙΣΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9172",
+    "name": "ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9173",
+    "name": "ΜΕΤΑΜΟΡΦΩΣΕΩΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9174",
+    "name": "ΝΕΑΣ ΙΩΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9175",
+    "name": "ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9176",
+    "name": "ΠΕΝΤΕΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9177",
+    "name": "ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9178",
+    "name": "ΧΑΛΑΝΔΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0901"
+  },
+  {
+    "_id": "9179",
+    "name": "ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9180",
+    "name": "ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9181",
+    "name": "ΑΙΓΑΛΕΩ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9182",
+    "name": "ΙΛΙΟΥ ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9183",
+    "name": "ΠΕΡΙΣΤΕΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9184",
+    "name": "ΠΕΤΡΟΥΠΟΛΕΩΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9185",
+    "name": "ΧΑΪΔΑΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0902"
+  },
+  {
+    "_id": "9186",
+    "name": "ΑΘΗΝΑΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9187",
+    "name": "ΒΥΡΩΝΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9188",
+    "name": "ΓΑΛΑΤΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9189",
+    "name": "ΔΑΦΝΗΣ - ΥΜΗΤΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9190",
+    "name": "ΖΩΓΡΑΦΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9191",
+    "name": "ΗΛΙΟΥΠΟΛΕΩΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9192",
+    "name": "ΚΑΙΣΑΡΙΑΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9193",
+    "name": "ΦΙΛΑΔΕΛΦΕΙΑΣ - ΧΑΛΚΗΔΟΝΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0903"
+  },
+  {
+    "_id": "9194",
+    "name": "ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9195",
+    "name": "ΑΛΙΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9196",
+    "name": "ΓΛΥΦΑΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9197",
+    "name": "ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9198",
+    "name": "ΚΑΛΛΙΘΕΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9199",
+    "name": "ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9200",
+    "name": "ΝΕΑΣ ΣΜΥΡΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9201",
+    "name": "ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0904"
+  },
+  {
+    "_id": "9202",
+    "name": "ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0905"
+  },
+  {
+    "_id": "9203",
+    "name": "ΚΟΡΥΔΑΛΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0905"
+  },
+  {
+    "_id": "9204",
+    "name": "ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0905"
+  },
+  {
+    "_id": "9205",
+    "name": "ΠΕΙΡΑΙΩΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0905"
+  },
+  {
+    "_id": "9206",
+    "name": "ΠΕΡΑΜΑΤΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0905"
+  },
+  {
+    "_id": "9207",
+    "name": "ΑΓΚΙΣΤΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9208",
+    "name": "ΑΙΓΙΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9209",
+    "name": "ΚΥΘΗΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9210",
+    "name": "ΠΟΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9211",
+    "name": "ΣΑΛΑΜΙΝΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9212",
+    "name": "ΣΠΕΤΣΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9213",
+    "name": "ΤΡΟΙΖΗΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9214",
+    "name": "ΥΔΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0906"
+  },
+  {
+    "_id": "9215",
+    "name": "ΑΧΑΡΝΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9216",
+    "name": "ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9217",
+    "name": "ΔΙΟΝΥΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9218",
+    "name": "ΚΡΩΠΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9219",
+    "name": "ΛΑΥΡΕΩΤΙΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9220",
+    "name": "ΜΑΡΑΘΩΝΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9221",
+    "name": "ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9222",
+    "name": "ΠΑΙΑΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9223",
+    "name": "ΠΑΛΛΗΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9224",
+    "name": "ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9225",
+    "name": "ΣΑΡΩΝΙΚΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9226",
+    "name": "ΣΠΑΤΩΝ - ΑΡΤΕΜΙΔΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9227",
+    "name": "ΩΡΩΠΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0907"
+  },
+  {
+    "_id": "9228",
+    "name": "ΑΣΠΡΟΠΥΡΓΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0908"
+  },
+  {
+    "_id": "9229",
+    "name": "ΕΛΕΥΣΙΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0908"
+  },
+  {
+    "_id": "9230",
+    "name": "ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0908"
+  },
+  {
+    "_id": "9231",
+    "name": "ΜΕΓΑΡΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0908"
+  },
+  {
+    "_id": "9232",
+    "name": "ΦΥΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "0908"
+  },
+  {
+    "_id": "9233",
+    "name": "ΑΡΓΟΥΣ-ΜΥΚΗΝΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1001"
+  },
+  {
+    "_id": "9234",
+    "name": "ΕΠΙΔΑΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1001"
+  },
+  {
+    "_id": "9235",
+    "name": "ΕΡΜΙΟΝΙΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1001"
+  },
+  {
+    "_id": "9236",
+    "name": "ΝΑΥΠΛΙΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1001"
+  },
+  {
+    "_id": "9237",
+    "name": "ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1002"
+  },
+  {
+    "_id": "9238",
+    "name": "ΓΟΡΤΥΝΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1002"
+  },
+  {
+    "_id": "9239",
+    "name": "ΜΕΓΑΛΟΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1002"
+  },
+  {
+    "_id": "9240",
+    "name": "ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1002"
+  },
+  {
+    "_id": "9241",
+    "name": "ΤΡΙΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1002"
+  },
+  {
+    "_id": "9242",
+    "name": "ΒΕΛΟΥ-ΒΟΧΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9243",
+    "name": "ΚΟΡΙΝΘΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9244",
+    "name": "ΛΟΥΤΡΑΚΙΟΥ-ΑΓ.ΘΕΟΔΩΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9245",
+    "name": "ΝΕΜΕΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9246",
+    "name": "ΞΥΛΟΚΑΣΤΡΟΥ-ΕΥΡΩΣΤΙΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9247",
+    "name": "ΣΙΚΥΩΝΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1003"
+  },
+  {
+    "_id": "9248",
+    "name": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1004"
+  },
+  {
+    "_id": "9249",
+    "name": "ΕΛΑΦΟΝΗΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1004"
+  },
+  {
+    "_id": "9250",
+    "name": "ΕΥΡΩΤΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1004"
+  },
+  {
+    "_id": "9251",
+    "name": "ΜΟΝΕΜΒΑΣΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1004"
+  },
+  {
+    "_id": "9252",
+    "name": "ΣΠΑΡΤΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1004"
+  },
+  {
+    "_id": "9253",
+    "name": "ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9254",
+    "name": "ΚΑΛΑΜΑΤΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9255",
+    "name": "ΜΕΣΣΗΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9256",
+    "name": "ΟΙΧΑΛΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9257",
+    "name": "ΠΥΛΟΥ-ΝΕΣΤΟΡΟΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9258",
+    "name": "ΤΡΙΦΥΛΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1005"
+  },
+  {
+    "_id": "9259",
+    "name": "ΙΚΑΡΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1101"
+  },
+  {
+    "_id": "9260",
+    "name": "ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1101"
+  },
+  {
+    "_id": "9261",
+    "name": "ΛΕΣΒΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1102"
+  },
+  {
+    "_id": "9262",
+    "name": "ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1103"
+  },
+  {
+    "_id": "9263",
+    "name": "ΛΗΜΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1103"
+  },
+  {
+    "_id": "9264",
+    "name": "ΣΑΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1104"
+  },
+  {
+    "_id": "9265",
+    "name": "ΟΙΝΟΥΣΣΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1105"
+  },
+  {
+    "_id": "9266",
+    "name": "ΧΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1105"
+  },
+  {
+    "_id": "9267",
+    "name": "ΨΑΡΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1105"
+  },
+  {
+    "_id": "9268",
+    "name": "ΑΝΔΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1201"
+  },
+  {
+    "_id": "9269",
+    "name": "ΑΝΑΦΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1202"
+  },
+  {
+    "_id": "9270",
+    "name": "ΘΗΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1202"
+  },
+  {
+    "_id": "9271",
+    "name": "ΙΗΤΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1202"
+  },
+  {
+    "_id": "9272",
+    "name": "ΣΙΚΙΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1202"
+  },
+  {
+    "_id": "9273",
+    "name": "ΦΟΛΕΓΑΝΔΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1202"
+  },
+  {
+    "_id": "9274",
+    "name": "ΑΓΑΘΟΝΗΣΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9275",
+    "name": "ΑΣΤΥΠΑΛΑΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9276",
+    "name": "ΚΑΛΥΜΝΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9277",
+    "name": "ΛΕΙΨΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9278",
+    "name": "ΛΕΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9279",
+    "name": "ΠΑΤΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1203"
+  },
+  {
+    "_id": "9280",
+    "name": "ΚΑΡΠΑΘΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1204"
+  },
+  {
+    "_id": "9281",
+    "name": "ΚΑΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1204"
+  },
+  {
+    "_id": "9282",
+    "name": "ΚΕΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1205"
+  },
+  {
+    "_id": "9283",
+    "name": "ΚΥΘΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1205"
+  },
+  {
+    "_id": "9284",
+    "name": "ΚΩ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1206"
+  },
+  {
+    "_id": "9285",
+    "name": "ΝΙΣΥΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1206"
+  },
+  {
+    "_id": "9286",
+    "name": "ΚΙΜΩΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1207"
+  },
+  {
+    "_id": "9287",
+    "name": "ΜΗΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1207"
+  },
+  {
+    "_id": "9288",
+    "name": "ΣΕΡΙΦΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1207"
+  },
+  {
+    "_id": "9289",
+    "name": "ΣΙΦΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1207"
+  },
+  {
+    "_id": "9290",
+    "name": "ΜΥΚΟΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1208"
+  },
+  {
+    "_id": "9291",
+    "name": "ΑΜΟΡΓΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1209"
+  },
+  {
+    "_id": "9292",
+    "name": "ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1209"
+  },
+  {
+    "_id": "9293",
+    "name": "ΑΝΤΙΠΑΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1210"
+  },
+  {
+    "_id": "9294",
+    "name": "ΠΑΡΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1210"
+  },
+  {
+    "_id": "9295",
+    "name": "ΜΕΓΙΣΤΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1211"
+  },
+  {
+    "_id": "9296",
+    "name": "ΡΟΔΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1211"
+  },
+  {
+    "_id": "9297",
+    "name": "ΣΥΜΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1211"
+  },
+  {
+    "_id": "9298",
+    "name": "ΤΗΛΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1211"
+  },
+  {
+    "_id": "9299",
+    "name": "ΧΑΛΚΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1211"
+  },
+  {
+    "_id": "9300",
+    "name": "ΣΥΡΟΥ-ΕΡΜΟΥΠΟΛΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1212"
+  },
+  {
+    "_id": "9301",
+    "name": "ΤΗΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1213"
+  },
+  {
+    "_id": "9302",
+    "name": "ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9303",
+    "name": "ΒΙΑΝΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9304",
+    "name": "ΓΟΡΤΥΝΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9305",
+    "name": "ΗΡΑΚΛΕΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9306",
+    "name": "ΜΑΛΕΒΙΖΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9307",
+    "name": "ΜΙΝΩΑ ΠΕΔΙΑΔΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9308",
+    "name": "ΦΑΙΣΤΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9309",
+    "name": "ΧΕΡΣΟΝΗΣΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1301"
+  },
+  {
+    "_id": "9310",
+    "name": "ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1302"
+  },
+  {
+    "_id": "9311",
+    "name": "ΙΕΡΑΠΕΤΡΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1302"
+  },
+  {
+    "_id": "9312",
+    "name": "ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1302"
+  },
+  {
+    "_id": "9313",
+    "name": "ΣΗΤΕΙΑΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1302"
+  },
+  {
+    "_id": "9314",
+    "name": "ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1303"
+  },
+  {
+    "_id": "9315",
+    "name": "ΑΜΑΡΙΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1303"
+  },
+  {
+    "_id": "9316",
+    "name": "ΑΝΩΓΕΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1303"
+  },
+  {
+    "_id": "9317",
+    "name": "ΜΥΛΟΠΟΤΑΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1303"
+  },
+  {
+    "_id": "9318",
+    "name": "ΡΕΘΥΜΝΗΣ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1303"
+  },
+  {
+    "_id": "9319",
+    "name": "ΑΠΟΚΟΡΩΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9320",
+    "name": "ΓΑΥΔΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9321",
+    "name": "ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9322",
+    "name": "ΚΙΣΣΑΜΟΥ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9323",
+    "name": "ΠΛΑΤΑΝΙΑ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9324",
+    "name": "ΣΦΑΚΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  },
+  {
+    "_id": "9325",
+    "name": "ΧΑΝΙΩΝ",
+    "type": "ΔΗΜΟΣ",
+    "regional_unity_id": "1304"
+  }
+]

@@ -1,0 +1,2 @@
+json.extract! town, :id, :name, :title, :kal_townID, :kap_townID, :kal_type, :kal_base, :population, :kap_type, :section_id, :kap_city_id, :created_at, :updated_at
+json.url town_url(town, format: :json)

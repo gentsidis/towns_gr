@@ -1,0 +1,1 @@
+json.partial! "kal_cities/kal_city", kal_city: @kal_city

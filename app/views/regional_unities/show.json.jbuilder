@@ -1,0 +1,1 @@
+json.partial! "regional_unities/regional_unity", regional_unity: @regional_unity
